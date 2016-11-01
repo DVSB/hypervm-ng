@@ -15,7 +15,7 @@ if ! [ -f /usr/local/lxlabs/hypervm/bin/raw_update.phps ]; then
 fi
 
 echo ""
-echo "HyperVM Upgrade to HyperVM-NG powered by HyperVM-NG team"
+echo "HyperVM Upgrade to HyperVM-Com-QuadTech.net powered by HyperVM-Com-QuadTech.net Team"
 echo "============================================================"
 echo "Current version: $(sh /script/version)"
 echo ""
