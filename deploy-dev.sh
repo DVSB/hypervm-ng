@@ -1,8 +1,13 @@
 #!/bin/sh
 #    HyperVM, Server Virtualization GUI for OpenVZ and Xen
 #
-#    Copyright (C) 2000-2009	LxLabs
-#    Copyright (C) 2009-2014	LxCenter
+#    HyperVM, Server Virtualization GUI for OpenVZ and Xen
+#
+#    Copyright (C) 2000-2009       LxLabs
+#    Copyright (C) 2009-2009       LxCenter
+#    Copyright (C) 2009-2017       Com-QuadTech  http://com-quadtech.net | Developer
+#
+#    Server - Sponsoring by: https://avoro.eu  &  http://disker.net  
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as
@@ -21,6 +26,7 @@
 #
 #    Install and deploy a develoment version on a local enviroment
 #
+#    Version 0.7 Added local [ Siegfried Sbrzesny <siegfried.sbrzesny@t-online.de> ]
 #    Version 0.6 Added local [ Krzysztof Taraszka <krzysztof.taraszka@hypervm-ng.org> ]
 #    Version 0.5 Added legacy & NG [ Krzysztof Taraszka <krzysztof.taraszka@hypervm-ng.org> ]
 #    Version 0.4 Added which, zip and unzip as requirement [ Danny Terweij <d.terweij@lxcenter.org> ]
@@ -84,7 +90,7 @@ require_root
 
 require_requirements
 
-echo 'Installing HyperVM-NG development version.'
+echo 'Installing HyperVM-Com-QuadTech.net development version.'
 
 if which git >/dev/null; then
 	echo 'GIT support detected.'
