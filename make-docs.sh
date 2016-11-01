@@ -1,8 +1,13 @@
 #!/bin/sh
 #    HyperVM, Server Virtualization GUI for OpenVZ and Xen
 #
-#    Copyright (C) 2000-2009	LxLabs
-#    Copyright (C) 2009-2013	LxCenter
+#    HyperVM, Server Virtualization GUI for OpenVZ and Xen
+#
+#    Copyright (C) 2000-2009       LxLabs
+#    Copyright (C) 2009-2009       LxCenter
+#    Copyright (C) 2009-2017       Com-QuadTech  http://com-quadtech.net | Developer
+#
+#    Server - Sponsoring by: https://avoro.eu  &  http://disker.net  
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU Affero General Public License as
